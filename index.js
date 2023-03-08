@@ -1,5 +1,5 @@
 function pesquisar(){
-    let G_TOKEN = 'AIzaSyCRRiF1SKHxBn3uArMsmUE9RLiERrC5ob8'
+    let G_TOKEN = nao
     let nome = document.getElementById("texto").value;
     const xhr = new XMLHttpRequest();
 
